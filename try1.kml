@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+    </Style>
+      <LookAt>
+        <longitude>-33.825761</longitude>
+        <latitude>151.192213</latitude>
+        <altitude>0</altitude>
+        <heading>-148.4122922628044</heading>
+        <tilt>40.5575073395506</tilt>
+        <range>500.6566641072245</range>
+      </LookAt>
+        <Placemark>
+          <name>Subject site</name>
+          <visibility>0</visibility>
+          <styleUrl>#transBluePoly</styleUrl>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+-33.825761, 151.192213,17
+-33.825809, 151.192597,17
+-33.826076, 151.192544,17
+-33.826684, 151.192030,17
+-33.826620, 151.192445,17
+-33.826753, 151.192417,17
+-33.826669, 151.192832,17
+-33.826127, 151.192933,17</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+</kml>
