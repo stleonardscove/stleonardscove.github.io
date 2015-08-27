@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-    <Style id="transBluePoly">
-      <LineStyle>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>7dff0000</color>
-      </PolyStyle>
-    </Style>
-<!--
-      <LookAt>
-        <longitude>-33.825761</longitude>
-        <latitude>151.192213</latitude>
-        <altitude>0</altitude>
-        <heading>-148.4122922628044</heading>
-        <tilt>40.5575073395506</tilt>
-        <range>500.6566641072245</range>
-      </LookAt>
--->
         <Placemark>
           <name>Subject site</name>
           <visibility>0</visibility>
